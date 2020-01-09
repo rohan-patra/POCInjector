@@ -1,0 +1,44 @@
+﻿  POCInjector.cpp
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,8): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,8): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,44): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,50): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,50): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,80): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,80): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,86): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,86): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,92): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,92): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,98): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,98): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,104): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,104): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,110): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,110): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,116): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,116): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,122): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,122): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,128): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,128): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,134): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,134): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,146): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,146): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,152): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,152): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,170): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,170): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,176): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,176): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,182): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,182): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,188): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,188): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,194): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(142,194): warning C4309: 'initializing': truncation of constant value
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(344,9): warning C4477: 'printf' : format string '%#x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PVOID'
+C:\Users\rohan\source\repos\POCInjector\POCInjector\POCInjector.cpp(387,9): warning C4477: 'printf' : format string '%#x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PVOID'
+  POCInjector.vcxproj -> C:\Users\rohan\source\repos\POCInjector\Debug\POCInjector.exe
